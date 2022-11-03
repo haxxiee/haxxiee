@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm Linus, a 26 years old web developer student based in Sweden <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/se.png"
+I'm Linus, a 27 years old web developer student based in Sweden <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/se.png"
      alt="Swedish flag"/>  :sweden:.<br/>
 Frontend is what I do, but I also have some knowledge of NodeJS and Express.
 
